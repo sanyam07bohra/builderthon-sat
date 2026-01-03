@@ -1,7 +1,0 @@
-skyfield
-numpy
-pandas
-matplotlib
-plotly
-streamlit
-google-genai
